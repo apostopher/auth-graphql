@@ -1,0 +1,20 @@
+{
+  "name": "auth-graphql",
+  "version": "1.0.0",
+  "description": "Authentication using graphQL and express.js",
+  "main": "src/index.js",
+  "repository": "git@github.com:apostopher/auth-graphql.git",
+  "author": "Rahul Devaskar <apostopher@gmail.com> (https://apostopher.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.3",
+    "express-graphql": "0.6.5"
+  },
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-env": "1.5.1",
+    "babel-preset-flow": "6.23.0",
+    "babel-register": "6.24.1",
+    "flow-bin": "0.46.0"
+  }
+}
